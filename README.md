@@ -1,0 +1,2 @@
+# XJS
+A JavaScript library.
